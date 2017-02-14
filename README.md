@@ -1,3 +1,5 @@
 # psr4-autoload
 
-Run: '''composer dump-autoload'''
+Run: 
+
+    composer dump-autoload
